@@ -10,7 +10,7 @@ import os
 import signal
 import subprocess
 import sys
-
+import installventoy
 gi.require_version('Polkit', '1.0')
 gi.require_version('Gtk', '3.0')
 gi.require_version('UDisks', '2.0')
